@@ -47,8 +47,8 @@ const App: React.FC = () => {
           </IonToolbar>
         </IonHeader>
         <IonContent className="ion-padding">
-        <button>123 </button>
         <DatePicker  />
+          <button>123 </button>
         </IonContent>
       </IonMenu>
       <IonPage id="main-content">
